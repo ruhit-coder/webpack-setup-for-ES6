@@ -6,7 +6,6 @@
   "scripts": {
     "start": "webpack-dev-server",
     "build": "webpack",
-    "dev": "webpack serve"
   },
   "keywords": [],
   "author": "Ahsan Habib",
