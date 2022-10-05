@@ -9,7 +9,7 @@
     "dev": "webpack serve"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ahsan Habib",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.19.3",
