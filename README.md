@@ -11,7 +11,7 @@ Includes the following features...
 
 ## Usage
 
-Run Dev Server (Port 1234)
+Run Dev Server (Port 4466)
 
 ```
   npm start
