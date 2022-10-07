@@ -9,6 +9,12 @@ Includes the following features...
 - WebpackDevServer
 - Inline Source Maps
 
+##Install
+
+```
+  npm install
+```
+
 ## Usage
 
 Run Dev Server (Port 4466)
