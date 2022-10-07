@@ -9,7 +9,7 @@ Includes the following features...
 - WebpackDevServer
 - Inline Source Maps
 
-##Install
+## Install
 
 ```
   npm install
