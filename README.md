@@ -1,11 +1,10 @@
-# Webpack App Starter
+# Webpack for ES6
 
 Frontend environment for building ES6 applications
 
 Includes the following features...
 
 - Babel Loader
-- Css Loader
 - HTMLWebpackPlugin
 - WebpackDevServer
 - Inline Source Maps
@@ -28,6 +27,5 @@ npm run build
 
 The demo app is a very simple Joke generator. Replace with your own code and install other packages as needed
 
-- scripts/index.js (main javascript)
+- scripts/app.js (main javascript)
 - index.html (template)
-- styles/style.css (styles)
